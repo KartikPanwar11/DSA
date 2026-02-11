@@ -18,4 +18,13 @@ JS Refresher:
                                             'Weekend';
                                             console.log(greeting);
               
-              Switch case --> The switch statement evaluates an expression and executes code based on matching cases. It’s an efficient alternative to multiple if-else statements,                                        improving readability when handling many conditions.
+              Switch case --> The switch statement evaluates an expression and executes         code based on matching cases. It’s an efficient alternative to multiple if-else statements,improving readability when handling many conditions.
+
+              Break and continue --> break and continue are used to control loop execution. break immediately terminates a loop when a condition is met, while continue Skips the current iteration and proceeds to the next loop iteration.
+
+              Loops --> Loops in JavaScript allow a block of code to run multiple times as long as a given condition is satisfied. They help reduce repetition and make programs more efficient and organized.
+
+                for loop --> 
+                            The for loop repeats a block of code a specific number of times. It contains initialization, condition, and increment/decrement in one line.
+
+                
