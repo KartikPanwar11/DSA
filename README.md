@@ -27,4 +27,8 @@ JS Refresher:
                 for loop --> 
                             The for loop repeats a block of code a specific number of times. It contains initialization, condition, and increment/decrement in one line.
 
-                
+                while loop -->
+                            The while loop executes as long as the condition is true. It can be thought of as a repeating if statement. 
+
+                do-while loop -->
+                            The do...while statement creates a loop that executes a specified statement as long as the test condition evaluates to true. The condition is evaluated after executing the statement, resulting in the specified statement executing at least once.
